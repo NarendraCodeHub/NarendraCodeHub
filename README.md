@@ -1,6 +1,8 @@
 # 💫 About Me: Narendra Kumar
-I am an Automation Software Engineer passionate about DevOps, CI/CD, and Test Automation. Here’s a bit about me:<br><br>🔭 I’m currently working on SwagLabs_Automation Project<br>🌱 I’m currently learning Automation<br>👯 I’m looking to collaborate on Automation Projects<br>💬 Ask me about Automation, Selenium, TestNG, POM, API Postman<br>📫 How to reach me: LinkedIn<br>
+I am an Automation Software Engineer passionate about DevOps, CI/CD, and Test Automation. Here’s a bit about me:<br><br>🔭 I’m currently working on SwagLabs_Automation Project<br>🌱 I’m currently learning Automation<br>👯 I’m looking to collaborate on Automation Projects<br>💬 Ask me about Automation, Selenium, TestNG, POM, API Postman<br>📫 How to reach me: LinkedIn<be>
 
+# ✅ Test Status
+[![Playwright Tests](https://github.com/NarendraCodeHub/QA-Practice-Playwright-Automation/actions/workflows/playwright.yml/badge.svg)](https://github.com/NarendraCodeHub/QA-Practice-Playwright-Automation/actions/workflows/playwright.yml)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narendrakumar2001) 
@@ -15,6 +17,9 @@ I am an Automation Software Engineer passionate about DevOps, CI/CD, and Test Au
 ![TestNG](https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge&logo=testng&logoColor=white)
 ![POM](https://img.shields.io/badge/POM-000000?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Hybrid Framework](https://img.shields.io/badge/Hybrid%20Framework-8A2BE2?style=for-the-badge&logo=framework&logoColor=white)
+
+## Playwright Testing
+![Playwright](https://img.shields.io/badge/Playwright-1D6AF0?style=for-the-badge&logo=playwright&logoColor=white)
 
 ## Tools and IDEs
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
